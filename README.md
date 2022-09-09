@@ -15,9 +15,17 @@ Step5                      |  Step6                      | Step7                
 ![img5](./images/img5.jpeg)|  ![img6](./images/img6.jpeg)|![img7](./images/img7.jpeg) |![img8](./images/img8.jpeg)
 
 <p float="left">
-  <img src="./images/img1.jpeg" width="100" />
-  <img src="./images/img1.jpeg" width="100" />
-  <img src="./images/img1.jpeg" width="100" />
+  <img src="./images/img1.jpeg" width="200" />
+  <img src="./images/img2.jpeg" width="200" />
+  <img src="./images/img3.jpeg" width="200" />
+  <img src="./images/img4.jpeg" width="200" />
+</p>
+
+<p float="left">
+  <img src="./images/img5.jpeg" width="200" />
+  <img src="./images/img6.jpeg" width="200" />
+  <img src="./images/img7.jpeg" width="200" />
+  <img src="./images/img8.jpeg" width="200" />
 </p>
 
 
