@@ -8,9 +8,11 @@ the irrational number (1 + Square root of√5)/2, often denoted by the Greek let
 approximately equal to 1.618
 
 # Instructions on making the Icosahedron
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![img1](./images/img1.jpeg)|  ![img2](./images/img2.jpeg)
 
-![img1](./images/img1.jpeg)
-![img2](./images/img2.jpeg)
+
 ![img3](./images/img3.jpeg)
 ![img4](./images/img4.jpeg)
 ![img5](./images/img5.jpeg)
