@@ -12,7 +12,6 @@ Step1                      |  Step2                      | Step3                
 :-------------------------:|:-------------------------:  |:-------------------------: |:-------------------------: 
 ![img1](./images/img1.jpeg)|  ![img2](./images/img2.jpeg)|![img3](./images/img3.jpeg) |![img4](./images/img4.jpeg)
 Step5                      |  Step6                      | Step7                      | Step8
-:-------------------------:|:-------------------------:  |:-------------------------: |:-------------------------: 
 ![img5](./images/img5.jpeg)|  ![img6](./images/img6.jpeg)|![img7](./images/img7.jpeg) |![img8](./images/img8.jpeg)
 
 
