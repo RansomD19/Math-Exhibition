@@ -14,6 +14,12 @@ Step1                      |  Step2                      | Step3                
 Step5                      |  Step6                      | Step7                      | Step8
 ![img5](./images/img5.jpeg)|  ![img6](./images/img6.jpeg)|![img7](./images/img7.jpeg) |![img8](./images/img8.jpeg)
 
+<p float="left">
+  <img src="./images/img1.jpeg" width="100" />
+  <img src="./images/img1.jpeg" width="100" />
+  <img src="./images/img1.jpeg" width="100" />
+</p>
+
 
 * Cut out 3 rectangles from box board.
 
