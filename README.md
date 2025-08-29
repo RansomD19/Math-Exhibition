@@ -1,6 +1,6 @@
 [Proofs](https://www.goldennumber.net/geometry/)
 
-<u>Made By: Daniel & Ryan</u>
+<u>Made By: Daniel</u>
 
 # What is a Golden Ratio ? <br>
 Golden ratio, also known as the golden section, golden mean, or divine proportion, in mathematics, <br>
